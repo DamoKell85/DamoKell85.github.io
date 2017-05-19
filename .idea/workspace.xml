@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab5262b6-7693-4d5d-b472-41c55f34bf1b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/MySQL.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Python.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/SQLite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/c#.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/c++.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/css3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/html5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/jQurery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/node.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/php.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +34,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="100" column="52" lean-forward="false" selection-start-line="100" selection-start-column="52" selection-end-line="100" selection-end-column="52" />
+            <state relative-caret-position="118">
+              <caret line="100" column="54" lean-forward="false" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -33,6 +47,7 @@
     <findStrings>
       <find>portfolio</find>
       <find>h4</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -90,6 +105,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DamoKell85.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DamoKell85.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -110,8 +139,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\damie\IdeaProjects\DamoKell85.github.io" />
       <recent name="C:\Users\damie\IdeaProjects\DamoKell85.github.io\img" />
+      <recent name="C:\Users\damie\IdeaProjects\DamoKell85.github.io" />
     </key>
   </component>
   <component name="RunManager">
@@ -534,12 +563,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495216467083</updated>
       <workItem from="1495216471041" duration="6017000" />
-      <workItem from="1495227276329" duration="1485000" />
+      <workItem from="1495227276329" duration="2608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7502000" />
+    <option name="totallyTimeSpent" value="8625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -559,7 +588,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -613,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="100" column="52" lean-forward="false" selection-start-line="100" selection-start-column="52" selection-end-line="100" selection-end-column="52" />
+        <state relative-caret-position="118">
+          <caret line="100" column="54" lean-forward="false" selection-start-line="100" selection-start-column="54" selection-end-line="100" selection-end-column="54" />
           <folding />
         </state>
       </provider>
